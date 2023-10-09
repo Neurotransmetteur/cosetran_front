@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
-    Template Name: DAX - IT solutions & Services HTML Template
-    Template URI: https://ultimatewebsolutions.net/dax/
+    Template Name: COSETRAN - IT solutions & Services HTML Template
+    Template URI: https://ultimatewebsolutions.net/COSETRAN/
     Author: WebTend
     Author URI:  https://ultimatewebsolutions.net/
     Version: 1.0
